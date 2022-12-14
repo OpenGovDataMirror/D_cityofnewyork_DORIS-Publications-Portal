@@ -1,0 +1,31 @@
+{
+  "name": "gpp",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+    "react-scripts": "0.9.3",
+    "redux-devtools": "^3.3.2"
+  },
+  "dependencies": {
+    "jsonschema": "^1.1.1",
+    "moment": "^2.18.1",
+    "prop-types": "^15.5.6",
+    "react": "^15.5.3",
+    "react-datepicker": "^0.46.0",
+    "react-dom": "^15.5.3",
+    "react-redux": "^5.0.4",
+    "react-router": "^4.0.0",
+    "react-router-dom": "^4.0.0",
+    "react-text-mask": "^4.1.0",
+    "redux": "^3.6.0",
+    "redux-persist": "^4.6.0",
+    "semantic-ui-react": "^0.67.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "proxy": "https://10.0.0.2"
+}
